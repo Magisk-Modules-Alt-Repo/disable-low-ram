@@ -1,0 +1,8 @@
+id=disable-low-ram
+name=Disable Low Ram Flag
+version=v1
+versionCode=1
+author=sekedus
+description=This module disable ro.config.low_ram flag on Android Go edition
+minMagisk=20400
+updateJson=https://raw.githubusercontent.com/sekedus/disable-low-ram/main/update.json

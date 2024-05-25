@@ -1,0 +1,4 @@
+# This file will be read by resetprop
+
+# Disable Low Ram Flag
+ro.config.low_ram=false
